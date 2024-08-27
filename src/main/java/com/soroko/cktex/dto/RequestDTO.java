@@ -3,6 +3,6 @@ package com.soroko.cktex.dto;
 /**
  * @author yuriy.soroko
  */
-public record ExampleDTO(int id,
+public record RequestDTO(int id,
                          int add) {
 }
